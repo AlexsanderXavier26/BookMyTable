@@ -21,22 +21,15 @@
 
    ```bash
    git clone https://github.com/AlexsanderXavier26/BookMyTable.git
-Navegue até a pasta do projeto:
-
-bash
-Copiar código
+2. Navegue até a pasta do projeto:
 cd BookMyTable
-Instale as dependências:
 
-bash
-Copiar código
+3.Instale as dependências:
 npm install
-Inicie o servidor de desenvolvimento:
 
-bash
-Copiar código
+4.Inicie o servidor de desenvolvimento:
 npm start
-Abra o navegador e acesse http://localhost:3000.
+Abra o navegador e acesse [http://localhost:3000.](https://p4xy77-3000.csb.app/)
 
 Como Usar
 Registro e Login: Crie uma conta ou faça login com o nome de usuário "user" e senha "Secure@123".
