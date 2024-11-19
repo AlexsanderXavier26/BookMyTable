@@ -19,7 +19,7 @@
 
 1. Clone o repositório:
 
-   ```bash
+   
    git clone https://github.com/AlexsanderXavier26/BookMyTable.git
 2. Navegue até a pasta do projeto:
 cd BookMyTable
@@ -48,5 +48,4 @@ Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 Contato
 Autor: Alexsander Xavier
 GitHub: AlexsanderXavier26
-perl
-Copiar código
+
